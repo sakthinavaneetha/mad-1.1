@@ -8,7 +8,7 @@ To install and run Android applications using Android Studio, This project aims 
 1.Android Studio – Latest version installed
 
 2.Java Development Kit (JDK) – Required for Android development
-
+a
 3.Android SDK – Included with Android Studio
 
 4.AVD (Android Virtual Device) or Physical Android Device – For testing apps
@@ -19,8 +19,8 @@ To install and run Android applications using Android Studio, This project aims 
 ## PROGRAM:
 ```
 Program to print the list of item.
-Developed by:SUJI S
-Registeration Number :212222040164
+Developed by: Sakthi Navaneetha 
+Registeration Number : 212222040138
 ```
 
 ## ALGORITHM:
